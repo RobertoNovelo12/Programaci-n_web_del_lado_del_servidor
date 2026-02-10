@@ -1,3 +1,5 @@
+console.log("==== EJERCICIO I - Módulo con funciones matemáticas y usarlo en otro archivo ====")
+
 function suma(a, b) {
   return a + b;
 }
