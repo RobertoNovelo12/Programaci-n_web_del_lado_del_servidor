@@ -1,4 +1,4 @@
-import { suma, resta, multiplicacion, division } from "./mate";
+import { suma, resta, multiplicacion, division } from "./mate.js";
 
 console.log("==== EJERCICIO I - Módulo con funciones matemáticas y usar en otro archivo ====")
 console.log("Suma:", suma(5, 3));

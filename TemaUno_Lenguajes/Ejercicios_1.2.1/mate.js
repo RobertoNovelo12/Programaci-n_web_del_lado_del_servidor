@@ -1,24 +1,17 @@
 console.log("==== EJERCICIO I - Módulo con funciones matemáticas y usarlo en otro archivo ====")
 
-function suma(a, b) {
+export function suma(a, b) {
   return a + b;
 }
 
-function resta(a, b) {
+export function resta(a, b) {
   return a - b;
 }
 
-function multiplicacion(a, b) {
+export function multiplicacion(a, b) {
   return a * b;
 }
 
-function division(a, b) {
+export function division(a, b) {
   return a / b;
 }
-
-export default {
-  suma,
-  resta,
-  multiplicacion,
-  division
-};

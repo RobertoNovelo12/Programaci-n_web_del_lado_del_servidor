@@ -78,7 +78,7 @@ operacionAsincrona((respuesta) => {
   console.log(respuesta);
 });
 
-console.log("==== EJERCICIO J - Convertir cadena a número con manejo de errores ====")
+console.log("==== EJERCICIO K - Convertir cadena a número con manejo de errores ====")
 
 function convertirNumero(texto) {
   try {
