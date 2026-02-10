@@ -14,7 +14,7 @@ function division(a, b) {
   return a / b;
 }
 
-module.exports = {
+export default {
   suma,
   resta,
   multiplicacion,
