@@ -1,3 +1,6 @@
+// Jorge Roberto Novelo Poot - 8B
+// modulosNode 
+
 import generateName from 'sillyname';
 import {randomSuperhero}  from 'superheroes';
 

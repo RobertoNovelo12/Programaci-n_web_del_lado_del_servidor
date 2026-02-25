@@ -1,3 +1,6 @@
+// Jorge Roberto Novelo Poot - 8B
+// modulosNode 
+
 const fs = require('fs');
 
 fs.writeFile('archivo.txt', 'Hola desde NodeJS', (err) => {
