@@ -7,11 +7,15 @@ const app = express();
 const port = 3000;
 
 app.get("/", (req, res) => {
-  res.send("<h1>Bienvenido a mi página web</h1>");
+  res.send("<h1>Bienvenido a mi página web - Roberto</h1>");
 });
 
 app.get("/about", (req, res) => {
   res.send("<h1>Acerca de mi</h1>");
+});
+
+app.get("/contacto", (req, res) => {
+  res.send("<h1>Llamame - 983 700 1298</h1>");
 });
 
 app.use((req, res) => {
