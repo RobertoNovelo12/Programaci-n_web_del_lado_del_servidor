@@ -1,7 +1,7 @@
 //Jorge Roberto Novelo Poot - 8B
 import axios from "axios";
 
-const API_KEY = "6927c55922d12055771e1d6879c3eea8";
+const API_KEY = "API";
 
 const obtenerClima = async () => {
     try {
