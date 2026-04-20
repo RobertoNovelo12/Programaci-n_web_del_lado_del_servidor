@@ -1,0 +1,2 @@
+            bandera: bandera, 
+            nombre: nombre
