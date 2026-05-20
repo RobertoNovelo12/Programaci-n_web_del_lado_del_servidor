@@ -39,7 +39,7 @@ function alumnos() {
 
 // g) Negación de Matchers con .not
 function colorGarfield() {
-    return "azul";
+    return "Naranja";
 }
 
 // h) Pruebas Asincronas con Promesas
